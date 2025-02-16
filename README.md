@@ -15,6 +15,7 @@ This project is a Spotify-inspired web music player, built using HTML, CSS, and 
 - style.css - Stylesheet for the project
 - assets - Contains images and icons
 - README.md - Documentation file
+- spotify.png - Image of clone
 
 3)Technologies Used
 
