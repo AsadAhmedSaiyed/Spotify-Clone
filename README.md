@@ -13,7 +13,7 @@ This project is a Spotify-inspired web music player, built using HTML, CSS, and 
 
 - index.html - Main HTML file
 - style.css - Stylesheet for the project
-- assets for MajPractProj1/ - Contains images and icons
+- assets - Contains images and icons
 - README.md - Documentation file
 
 3)Technologies Used
